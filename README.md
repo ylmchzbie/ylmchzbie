@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caryl Manalo</h1>
-<h3 align="center">A frontend developer and a ui/ux designer in the philippines</h3>
+<h3 align="center justify">A frontend developer and a ui/ux designer in the philippines</h3>
 
 - 🌱 I focus developing with **React and Typescript**
 - 📫 How to reach me **carylcium@gmail.com**
