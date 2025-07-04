@@ -1,5 +1,5 @@
 # 💫 Hey there!
-⋆.˚⟡ ࣪ ˖ i'm caryl ⋆.˚⟡ ࣪ ˖<br>🌟 UI/UX Designer<br>❄️ Frontend Developer<br>⚡ Check out my portfolio website | ylmcz.in
+⋆.˚⟡ ࣪ ˖ i'm caryl ⋆.˚⟡ ࣪ ˖<br><br>🌟 UI/UX Designer<br>❄️ Frontend Developer<br>⚡ Check out my portfolio website | ylmcz.in
 
 
 ## 🌐 Socials:
